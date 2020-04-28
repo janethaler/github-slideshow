@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Yep, Also Testing"
 ---
 Testing this out - JT
 Use the left arrow to go back!
